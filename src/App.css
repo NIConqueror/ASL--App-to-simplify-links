@@ -1,4 +1,11 @@
+.text_header{
+  margin-top: 15px;
+  margin-left: 15px;
+}
 
+.media{
+  background-color: rgba(44, 39, 119, 0.315);
+}
 
 .url_autosend , .enter-text{
   /* text-align: center; */
@@ -12,4 +19,9 @@
   text-align: center;
   top: 140px;
   left: 305px;
+  color: white;
+}
+
+footer{
+  text-align: center;
 }
