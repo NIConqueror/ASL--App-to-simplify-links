@@ -7,16 +7,15 @@
   background-color: rgba(44, 39, 119, 0.315);
 }
 
-
-.enter-text{
+.url_autosend{
+  /* text-align: center; */
+  text-align: right;
   position: relative;
-  display: inline;
-  size: 85%;
-  text-align: center;
-  top: 140px;
-  left: 305px;
-  color: white;
+  margin: 15% 15% 15% 55%;
 }
+
+
+
 
 footer{
   text-align: center;
