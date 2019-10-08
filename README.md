@@ -1,3 +1,5 @@
+ASL -- App to simplify links _ develop 09.10.2019
+___________________________________________________________________________________________________
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
